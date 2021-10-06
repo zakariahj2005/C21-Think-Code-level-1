@@ -1,1 +1,2 @@
-# Maak de opdrachten in de Canvas Module en commit en push de opdrachten hier als hierom wordt gevraagd!
+# FORK eerst deze module zoals uitgelegd in module voorbereiding
+Maak de opdrachten in de Canvas Module en commit en push de opdrachten hier als hierom wordt gevraagd!
